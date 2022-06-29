@@ -4,3 +4,13 @@
 It is fully responsive so it can be viewed on mobile.
 
 https://silver-selkie-4b5577.netlify.app/
+
+# Technologies used
+
+° HTML
+
+° CSS
+
+° JAVASCRIPT
+
+° REACT
